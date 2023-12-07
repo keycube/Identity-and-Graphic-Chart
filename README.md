@@ -30,7 +30,8 @@ The pairing of Dela Gothic One for titles and Poppins for body text is a deliber
 
 
 ## Color
-Green
+
+**Green**
 
 
 ```yaml
@@ -40,7 +41,7 @@ rgb : R-49 G-155 B-122
 
 > This green color was selected for its calming and natural qualities. The combination of these RGB values results in a shade of green that is visually appealing and harmonious.
 
-Blue
+**Blue**
 
 
 ```yaml
@@ -51,7 +52,7 @@ rgb : R-67 G-170 B-214
 
 
 
-Red
+**Red**
 
 ```yaml
 hex : #D45153
@@ -60,7 +61,7 @@ rgb : R-212 G-81 B-83
 
 > This red color was selected to evoke passion and energy. The specific RGB values result in a deep and warm shade of red.
 
-Orange
+**Orange**
 
 ```yaml
 hex : #DC800F
@@ -68,7 +69,7 @@ rgb : R-220 G-128 B-15
 ```
 > This orange color was chosen for its vibrancy and warmth. The RGB values create a lively and attention-grabbing shade of orange.
 
-Yellow
+**Yellow**
 
 ```yaml
 hex: #F1D248
@@ -77,8 +78,26 @@ rgb : R-241 G-210 B-72
 
 > This yellow color was selected for its association with positivity and energy. The RGB values result in a bright and cheerful shade of yellow.
 
+**Purple**
+```yaml
+hex : #785CB3
+rgb : R-120 G-92 B-179
+```
 
-These color choices aim to create a visually appealing and harmonious palette for the website, with each color serving a specific purpose in conveying emotions and enhancing the user experience.
+> This purple color was selected for its elegance and sophistication, conveying a rich and deep shade that exudes mystery and luxury.
+
+**Gradation**
+
+We created a gradient version  with all of these colors for the identity and the logo to achieve the following:
+
+- **Harmony**: Our thoughtfully designed color gradient creates a seamless visual transition between different hues, fostering a sense of unity and cohesion.
+
+- **Representation of Diversity**: By seamlessly blending multiple colors, our logo symbolizes diversity, encapsulating a variety of aspects, services, or ideas associated with the entity it represents.
+
+- **Dynamism**: The gradient introduces an element of dynamism and movement to the logo, suggesting continual evolution, innovation, and progress.
+
+- **Adaptability**: Thanks to its color gradient, our logo seamlessly adapts to diverse visual contexts. It effortlessly integrates into various backgrounds or mediums, ensuring readability and coherence without compromise.
+
 
 ***
 
@@ -86,4 +105,6 @@ These color choices aim to create a visually appealing and harmonious palette fo
 
 > Add licence here
 
-Export in `.svg` et `.png` are available on this repository. If you want to create new ones, the file source is also available. Enjoy ! :)
+Export in `.svg` et `.png` are available on this repository. If you want to create new ones, the file source is also available. 
+
+Enjoy ! :)
